@@ -223,6 +223,6 @@ docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtow
 - [new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon)：New API高性能优化版，专注于高并发优化，并支持Claude格式
 - [VoAPI](https://github.com/VoAPI/VoAPI)：基于New API的前端美化版本，闭源免费
 
-## 🌟 Star History
+### 人气曲线
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Calcium-Ion/new-api&type=Date)](https://star-history.com/#Calcium-Ion/new-api&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://star-history.com/#sunsky89757/FreeGPTapi&Date)
